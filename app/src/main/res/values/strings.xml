@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheatedBabe</string>
+    <string name="notification_text">Notification TEXT</string>
+    <string name="notificationtitle">Notification Title</string>
+    <string name="notificationmessage">Notification Message</string>
+    <string name="gonder_gelsin">Gönder Gelsin !</string>
+    <string name="durumu">Durumu:</string>
+    <string name="henuz_baslamadi">Henüz Başlamadı</string>
+    <string name="servis_basladi">Servis Başladı</string>
+</resources>
