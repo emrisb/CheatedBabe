@@ -30,6 +30,11 @@ public class ChatWithMeService extends Service {
     }
 
     @Override
+    public boolean onUnbind(Intent intent) {
+        return super.onUnbind(intent);
+    }
+
+    @Override
     public void onLowMemory() {
         super.onLowMemory();
     }
